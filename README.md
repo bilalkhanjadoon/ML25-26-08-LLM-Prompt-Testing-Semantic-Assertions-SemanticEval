@@ -7,4 +7,4 @@ It verifies that the outputs from LLMs match the intended meaning of prompts, ev
 
 ## Team - SemanticEval
 - **Muhammad Bilal - Matriculation number: 1631825**  
-- **Amjad Aziz**
+- **Amjad Aziz - Matriculation Number: 1629013**
