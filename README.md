@@ -6,5 +6,5 @@ This project implements a testing framework for evaluating LLM (Large Language M
 It verifies that the outputs from LLMs match the intended meaning of prompts, even if the wording varies.
 
 ## Team - SemanticEval
-- **Muhammad Bilal**  
+- **Muhammad Bilal - Matriculation number: 1631825**  
 - **Amjad Aziz**
